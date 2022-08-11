@@ -1,0 +1,20 @@
+{
+  "EXwrNIIBa0CUUmxeeQCC": {
+    "empCode": "TIM0001",
+    "firstName": "John",
+    "lastName": "Doe",
+    "timesheetsStatus": "INCOMPLETED",
+    "leaveUse": 0.0,
+    "totalOT": 0.0,
+    "totalWork": 0.0
+  },
+  "G3wsNIIBa0CUUmxe5QDu": {
+    "empCode": "TIM0002",
+    "firstName": "One First",
+    "lastName": "One Last",
+    "timesheetsStatus": "INCOMPLETED",
+    "leaveUse": 0.0,
+    "totalOT": 0.0,
+    "totalWork": 0.0
+  }
+}

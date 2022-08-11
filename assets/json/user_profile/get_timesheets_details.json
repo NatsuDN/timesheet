@@ -1,0 +1,23 @@
+{
+  "2022-07-09": {
+    "timeIn": "10.00:00",
+    "timeOut": "18.00:00",
+    "project": "A",
+    "activity": "B",
+    "dateStatus": "WORK"
+  },
+  "2022-07-08": {
+    "timeIn": "10.00:00",
+    "timeOut": "18.00:00",
+    "project": "A",
+    "activity": "B",
+    "dateStatus": "WORK"
+  },
+  "2022-07-07": {
+    "timeIn": "10.00:00",
+    "timeOut": "18.00:00",
+    "project": "A",
+    "activity": "B",
+    "dateStatus": "WORK"
+  }
+}

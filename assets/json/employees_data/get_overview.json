@@ -1,0 +1,28 @@
+{
+  "9nzMNoIBa0CUUmxeVAD3": {
+    "empCode": "TRM0002",
+    "firstName": "One First",
+    "lastName": "One Last",
+    "leaveLimit": 5.0,
+    "medFeeLimit": 5000.0,
+    "leaveUse": 0.0,
+    "medFeeUse": 0.0,
+    "leaveRemain": 5.0,
+    "medFeeRemain": 5000.0,
+    "endContract": "9999-01-01",
+    "nickName": "One"
+  },
+  "l3xuNoIBa0CUUmxekwAB": {
+    "empCode": "TRM0001",
+    "firstName": "John",
+    "lastName": "Doe",
+    "leaveLimit": 370.0,
+    "medFeeLimit": 1.0e7,
+    "leaveUse": 1.0,
+    "medFeeUse": 0.0,
+    "leaveRemain": 369.0,
+    "medFeeRemain": 1.0e7,
+    "endContract": "9999-01-01",
+    "nickName": "Jo"
+  }
+}

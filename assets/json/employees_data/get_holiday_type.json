@@ -1,0 +1,23 @@
+{
+  "NXyWNIIBa0CUUmxeEgB_": {
+    "holidayID": "NXyWNIIBa0CUUmxeEgB_",
+    "orgID": "NHyWNIIBa0CUUmxeEgAc",
+    "holidayName": "DEFAULT TIM",
+    "holiday_MAP": {
+      "2022-12-31": {
+        "timeIn": "-",
+        "timeOut": "-",
+        "project": "-",
+        "activity": "-",
+        "dateStatus": "HOLIDAY"
+      },
+      "2022-01-01": {
+        "timeIn": "-",
+        "timeOut": "-",
+        "project": "-",
+        "activity": "-",
+        "dateStatus": "HOLIDAY"
+      }
+    }
+  }
+}

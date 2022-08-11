@@ -1,0 +1,8 @@
+{
+  "empCode": "Z001",
+  "firstName": "John",
+  "lastLast": "Doe",
+  "amount": 100.0,
+  "note": "This is a note",
+  "slipPic": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+}

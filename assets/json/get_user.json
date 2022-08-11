@@ -1,0 +1,11 @@
+{
+  "empID": "testEmp",
+  "orgID": "testOrg",
+  "empCode": "test001",
+  "firstName": "Itim",
+  "lastName": "Pad",
+  "nickName": "Tim",
+  "timesheetMap": {},
+  "leaveUseMap": {},
+  "medFeeUseMap": {}
+}
